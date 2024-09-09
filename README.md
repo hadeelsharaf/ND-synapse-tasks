@@ -4,4 +4,5 @@
 
 * ETL Scripts
 * BLOB Screenshot
-*  Schema PDF
+* Schema PDF
+* Schema Table creation sql using CETAS
